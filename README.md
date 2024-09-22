@@ -1,6 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Himanshu Ranjan</h1>
 
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<h3 align="center">A passionate final-year Computer Science student and MERN Developer from India. I am focused on building full-stack web applications and constantly learning new technologies. In my free time, I make YouTube videos at <a href="https://www.youtube.com/@himanshuranjan6771" target="_blank">https://www.youtube.com/@himanshuranjan6771</a>.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
